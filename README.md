@@ -1,5 +1,4 @@
 ## Chain-of-thought prompting experiments
----
 
 ### Описание задачи
 
